@@ -40,7 +40,11 @@ def generate_questions(
     prompt = (
         f"Generate {num_questions} diverse questions that can be "
         f"answered by this paragraph:\n\n{paragraph}\n\n"
-        "Provide each question on a new line."
+        "Some simple query(s) in non-technical language. "
+        "Some intermediate query(s) that require some reasoning. "
+        "Some advanced query(s) that require deep understanding, using more technical words. "
+        "Make sure the questions are clear and concise. "
+        "Provide each question on a new line without headings. "
     )
     response = llm.invoke(input=prompt)
     content = response.text.strip()

@@ -31,17 +31,10 @@ def list_models():
     return {"data": [{"id": model_name, "object": "model"}]}
 
 
-def get_response(messages: list[dict[str, str]]) -> str:
-    if rag_chain is None:
-        return "The RAG system is not properly initialized. Please check your Pinecone configuration and ensure documents have been ingested."
-    response = rag_chain.invoke(messages[-1]["content"])
-    return response
-
-
 @app.post("/v1/chat/completions")
 async def create_chat_completion(request: ChatCompletionRequest):
     # Generate response
-    response = get_response(request.messages)
+    response = rag_chain.invoke(request.messages[-1]["content"])
 
     return {
         "id": f"chatcmpl-{int(time.time())}",

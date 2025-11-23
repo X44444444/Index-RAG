@@ -6,3 +6,4 @@ unused/
 TODO.md
 response_cache.json
 *.egg-info
+*.drawio.bkp
